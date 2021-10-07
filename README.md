@@ -1,5 +1,5 @@
 # SD-Card-Documentation
-Just a reminder about how to work woth sd cards
+Just a reminder about how to work with SD Cards
 
 ## Locate SD Card
 
