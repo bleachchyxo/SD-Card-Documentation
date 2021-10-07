@@ -40,7 +40,11 @@ Now that we alrady identified the SD Card partition we can proceed to wipe off t
     $ sudo dd if=/dev/zero of=/dev/sdb bs=4096 status=progress
 
 Output:
-   
+    
+    7815169+0 records in
+    7815168+0 records out
+    32010928128 bytes (32 GB, 30 GiB) copied, 4438.74 s, 7.2 MB/s
+
 ## Bruning an image into a SD Card
 Once you have the image you want to burn into the SD Card you type the command:
 
